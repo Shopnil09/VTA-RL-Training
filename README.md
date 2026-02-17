@@ -1,7 +1,7 @@
 # VTA-RL-Training
 
 ## paper link
-Link: 
+Link: https://openreview.net/forum?id=pfP2LIiH0A
 
 ## train.py
 Using TRL's GRPOTrainer for CPU testing
