@@ -1,0 +1,46 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+*.so
+.Python
+*$py.class
+
+# Virtual environments
+.venv
+venv/
+env/
+ENV/
+
+# outputs from `prime eval run`
+./outputs
+./environments/*/outputs
+output/
+
+# Training artifacts and model files
+*.pt
+*.pth
+*.bin
+*.pkl
+*.safetensors
+checkpoint-*/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Environment variables
+.env
+.env.local

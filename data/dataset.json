@@ -1,0 +1,407 @@
+[
+  {
+    "prompt": [
+      {
+        "role": "user",
+        "content": "You are a student posting on a university course discussion forum about machine learning. Write a single discussion forum post in the following style:\n\nStyle: Question-heavy and curious student: asks many follow-up questions, connects ideas across lectures, seeks deeper understanding beyond what's required.\n\nTopic: transfer learning and fine-tuning\n\nWrite only the forum post, nothing else."
+      }
+    ],
+    "cluster_id": 2
+  },
+  {
+    "prompt": [
+      {
+        "role": "user",
+        "content": "You are a student posting on a university course discussion forum about machine learning. Write a single discussion forum post in the following style:\n\nStyle: Casual and brief student: uses informal language, short sentences, sometimes incomplete thoughts, and internet-style abbreviations.\n\nTopic: backpropagation algorithm\n\nWrite only the forum post, nothing else."
+      }
+    ],
+    "cluster_id": 1
+  },
+  {
+    "prompt": [
+      {
+        "role": "user",
+        "content": "You are a student posting on a university course discussion forum about machine learning. Write a single discussion forum post in the following style:\n\nStyle: Casual and brief student: uses informal language, short sentences, sometimes incomplete thoughts, and internet-style abbreviations.\n\nTopic: batch normalization and dropout\n\nWrite only the forum post, nothing else."
+      }
+    ],
+    "cluster_id": 1
+  },
+  {
+    "prompt": [
+      {
+        "role": "user",
+        "content": "You are a student posting on a university course discussion forum about machine learning. Write a single discussion forum post in the following style:\n\nStyle: Question-heavy and curious student: asks many follow-up questions, connects ideas across lectures, seeks deeper understanding beyond what's required.\n\nTopic: ensemble methods and boosting\n\nWrite only the forum post, nothing else."
+      }
+    ],
+    "cluster_id": 2
+  },
+  {
+    "prompt": [
+      {
+        "role": "user",
+        "content": "You are a student posting on a university course discussion forum about machine learning. Write a single discussion forum post in the following style:\n\nStyle: Question-heavy and curious student: asks many follow-up questions, connects ideas across lectures, seeks deeper understanding beyond what's required.\n\nTopic: attention mechanisms and transformers\n\nWrite only the forum post, nothing else."
+      }
+    ],
+    "cluster_id": 2
+  },
+  {
+    "prompt": [
+      {
+        "role": "user",
+        "content": "You are a student posting on a university course discussion forum about machine learning. Write a single discussion forum post in the following style:\n\nStyle: Question-heavy and curious student: asks many follow-up questions, connects ideas across lectures, seeks deeper understanding beyond what's required.\n\nTopic: batch normalization and dropout\n\nWrite only the forum post, nothing else."
+      }
+    ],
+    "cluster_id": 2
+  },
+  {
+    "prompt": [
+      {
+        "role": "user",
+        "content": "You are a student posting on a university course discussion forum about machine learning. Write a single discussion forum post in the following style:\n\nStyle: Formal and verbose student: uses academic language, writes long structured posts with complete sentences and technical vocabulary.\n\nTopic: recurrent neural networks and LSTMs\n\nWrite only the forum post, nothing else."
+      }
+    ],
+    "cluster_id": 0
+  },
+  {
+    "prompt": [
+      {
+        "role": "user",
+        "content": "You are a student posting on a university course discussion forum about machine learning. Write a single discussion forum post in the following style:\n\nStyle: Formal and verbose student: uses academic language, writes long structured posts with complete sentences and technical vocabulary.\n\nTopic: model selection and cross-validation\n\nWrite only the forum post, nothing else."
+      }
+    ],
+    "cluster_id": 0
+  },
+  {
+    "prompt": [
+      {
+        "role": "user",
+        "content": "You are a student posting on a university course discussion forum about machine learning. Write a single discussion forum post in the following style:\n\nStyle: Formal and verbose student: uses academic language, writes long structured posts with complete sentences and technical vocabulary.\n\nTopic: data preprocessing and augmentation\n\nWrite only the forum post, nothing else."
+      }
+    ],
+    "cluster_id": 0
+  },
+  {
+    "prompt": [
+      {
+        "role": "user",
+        "content": "You are a student posting on a university course discussion forum about machine learning. Write a single discussion forum post in the following style:\n\nStyle: Formal and verbose student: uses academic language, writes long structured posts with complete sentences and technical vocabulary.\n\nTopic: convolutional neural networks\n\nWrite only the forum post, nothing else."
+      }
+    ],
+    "cluster_id": 0
+  },
+  {
+    "prompt": [
+      {
+        "role": "user",
+        "content": "You are a student posting on a university course discussion forum about machine learning. Write a single discussion forum post in the following style:\n\nStyle: Formal and verbose student: uses academic language, writes long structured posts with complete sentences and technical vocabulary.\n\nTopic: loss functions and evaluation metrics\n\nWrite only the forum post, nothing else."
+      }
+    ],
+    "cluster_id": 0
+  },
+  {
+    "prompt": [
+      {
+        "role": "user",
+        "content": "You are a student posting on a university course discussion forum about machine learning. Write a single discussion forum post in the following style:\n\nStyle: Casual and brief student: uses informal language, short sentences, sometimes incomplete thoughts, and internet-style abbreviations.\n\nTopic: transfer learning and fine-tuning\n\nWrite only the forum post, nothing else."
+      }
+    ],
+    "cluster_id": 1
+  },
+  {
+    "prompt": [
+      {
+        "role": "user",
+        "content": "You are a student posting on a university course discussion forum about machine learning. Write a single discussion forum post in the following style:\n\nStyle: Question-heavy and curious student: asks many follow-up questions, connects ideas across lectures, seeks deeper understanding beyond what's required.\n\nTopic: neural network architectures\n\nWrite only the forum post, nothing else."
+      }
+    ],
+    "cluster_id": 2
+  },
+  {
+    "prompt": [
+      {
+        "role": "user",
+        "content": "You are a student posting on a university course discussion forum about machine learning. Write a single discussion forum post in the following style:\n\nStyle: Casual and brief student: uses informal language, short sentences, sometimes incomplete thoughts, and internet-style abbreviations.\n\nTopic: recurrent neural networks and LSTMs\n\nWrite only the forum post, nothing else."
+      }
+    ],
+    "cluster_id": 1
+  },
+  {
+    "prompt": [
+      {
+        "role": "user",
+        "content": "You are a student posting on a university course discussion forum about machine learning. Write a single discussion forum post in the following style:\n\nStyle: Casual and brief student: uses informal language, short sentences, sometimes incomplete thoughts, and internet-style abbreviations.\n\nTopic: neural network architectures\n\nWrite only the forum post, nothing else."
+      }
+    ],
+    "cluster_id": 1
+  },
+  {
+    "prompt": [
+      {
+        "role": "user",
+        "content": "You are a student posting on a university course discussion forum about machine learning. Write a single discussion forum post in the following style:\n\nStyle: Formal and verbose student: uses academic language, writes long structured posts with complete sentences and technical vocabulary.\n\nTopic: ensemble methods and boosting\n\nWrite only the forum post, nothing else."
+      }
+    ],
+    "cluster_id": 0
+  },
+  {
+    "prompt": [
+      {
+        "role": "user",
+        "content": "You are a student posting on a university course discussion forum about machine learning. Write a single discussion forum post in the following style:\n\nStyle: Question-heavy and curious student: asks many follow-up questions, connects ideas across lectures, seeks deeper understanding beyond what's required.\n\nTopic: model selection and cross-validation\n\nWrite only the forum post, nothing else."
+      }
+    ],
+    "cluster_id": 2
+  },
+  {
+    "prompt": [
+      {
+        "role": "user",
+        "content": "You are a student posting on a university course discussion forum about machine learning. Write a single discussion forum post in the following style:\n\nStyle: Casual and brief student: uses informal language, short sentences, sometimes incomplete thoughts, and internet-style abbreviations.\n\nTopic: gradient descent and optimization\n\nWrite only the forum post, nothing else."
+      }
+    ],
+    "cluster_id": 1
+  },
+  {
+    "prompt": [
+      {
+        "role": "user",
+        "content": "You are a student posting on a university course discussion forum about machine learning. Write a single discussion forum post in the following style:\n\nStyle: Formal and verbose student: uses academic language, writes long structured posts with complete sentences and technical vocabulary.\n\nTopic: transfer learning and fine-tuning\n\nWrite only the forum post, nothing else."
+      }
+    ],
+    "cluster_id": 0
+  },
+  {
+    "prompt": [
+      {
+        "role": "user",
+        "content": "You are a student posting on a university course discussion forum about machine learning. Write a single discussion forum post in the following style:\n\nStyle: Casual and brief student: uses informal language, short sentences, sometimes incomplete thoughts, and internet-style abbreviations.\n\nTopic: overfitting and regularization\n\nWrite only the forum post, nothing else."
+      }
+    ],
+    "cluster_id": 1
+  },
+  {
+    "prompt": [
+      {
+        "role": "user",
+        "content": "You are a student posting on a university course discussion forum about machine learning. Write a single discussion forum post in the following style:\n\nStyle: Question-heavy and curious student: asks many follow-up questions, connects ideas across lectures, seeks deeper understanding beyond what's required.\n\nTopic: hyperparameter tuning strategies\n\nWrite only the forum post, nothing else."
+      }
+    ],
+    "cluster_id": 2
+  },
+  {
+    "prompt": [
+      {
+        "role": "user",
+        "content": "You are a student posting on a university course discussion forum about machine learning. Write a single discussion forum post in the following style:\n\nStyle: Question-heavy and curious student: asks many follow-up questions, connects ideas across lectures, seeks deeper understanding beyond what's required.\n\nTopic: overfitting and regularization\n\nWrite only the forum post, nothing else."
+      }
+    ],
+    "cluster_id": 2
+  },
+  {
+    "prompt": [
+      {
+        "role": "user",
+        "content": "You are a student posting on a university course discussion forum about machine learning. Write a single discussion forum post in the following style:\n\nStyle: Casual and brief student: uses informal language, short sentences, sometimes incomplete thoughts, and internet-style abbreviations.\n\nTopic: model selection and cross-validation\n\nWrite only the forum post, nothing else."
+      }
+    ],
+    "cluster_id": 1
+  },
+  {
+    "prompt": [
+      {
+        "role": "user",
+        "content": "You are a student posting on a university course discussion forum about machine learning. Write a single discussion forum post in the following style:\n\nStyle: Formal and verbose student: uses academic language, writes long structured posts with complete sentences and technical vocabulary.\n\nTopic: gradient descent and optimization\n\nWrite only the forum post, nothing else."
+      }
+    ],
+    "cluster_id": 0
+  },
+  {
+    "prompt": [
+      {
+        "role": "user",
+        "content": "You are a student posting on a university course discussion forum about machine learning. Write a single discussion forum post in the following style:\n\nStyle: Question-heavy and curious student: asks many follow-up questions, connects ideas across lectures, seeks deeper understanding beyond what's required.\n\nTopic: gradient descent and optimization\n\nWrite only the forum post, nothing else."
+      }
+    ],
+    "cluster_id": 2
+  },
+  {
+    "prompt": [
+      {
+        "role": "user",
+        "content": "You are a student posting on a university course discussion forum about machine learning. Write a single discussion forum post in the following style:\n\nStyle: Casual and brief student: uses informal language, short sentences, sometimes incomplete thoughts, and internet-style abbreviations.\n\nTopic: dimensionality reduction techniques\n\nWrite only the forum post, nothing else."
+      }
+    ],
+    "cluster_id": 1
+  },
+  {
+    "prompt": [
+      {
+        "role": "user",
+        "content": "You are a student posting on a university course discussion forum about machine learning. Write a single discussion forum post in the following style:\n\nStyle: Formal and verbose student: uses academic language, writes long structured posts with complete sentences and technical vocabulary.\n\nTopic: attention mechanisms and transformers\n\nWrite only the forum post, nothing else."
+      }
+    ],
+    "cluster_id": 0
+  },
+  {
+    "prompt": [
+      {
+        "role": "user",
+        "content": "You are a student posting on a university course discussion forum about machine learning. Write a single discussion forum post in the following style:\n\nStyle: Formal and verbose student: uses academic language, writes long structured posts with complete sentences and technical vocabulary.\n\nTopic: batch normalization and dropout\n\nWrite only the forum post, nothing else."
+      }
+    ],
+    "cluster_id": 0
+  },
+  {
+    "prompt": [
+      {
+        "role": "user",
+        "content": "You are a student posting on a university course discussion forum about machine learning. Write a single discussion forum post in the following style:\n\nStyle: Question-heavy and curious student: asks many follow-up questions, connects ideas across lectures, seeks deeper understanding beyond what's required.\n\nTopic: convolutional neural networks\n\nWrite only the forum post, nothing else."
+      }
+    ],
+    "cluster_id": 2
+  },
+  {
+    "prompt": [
+      {
+        "role": "user",
+        "content": "You are a student posting on a university course discussion forum about machine learning. Write a single discussion forum post in the following style:\n\nStyle: Formal and verbose student: uses academic language, writes long structured posts with complete sentences and technical vocabulary.\n\nTopic: overfitting and regularization\n\nWrite only the forum post, nothing else."
+      }
+    ],
+    "cluster_id": 0
+  },
+  {
+    "prompt": [
+      {
+        "role": "user",
+        "content": "You are a student posting on a university course discussion forum about machine learning. Write a single discussion forum post in the following style:\n\nStyle: Question-heavy and curious student: asks many follow-up questions, connects ideas across lectures, seeks deeper understanding beyond what's required.\n\nTopic: backpropagation algorithm\n\nWrite only the forum post, nothing else."
+      }
+    ],
+    "cluster_id": 2
+  },
+  {
+    "prompt": [
+      {
+        "role": "user",
+        "content": "You are a student posting on a university course discussion forum about machine learning. Write a single discussion forum post in the following style:\n\nStyle: Casual and brief student: uses informal language, short sentences, sometimes incomplete thoughts, and internet-style abbreviations.\n\nTopic: loss functions and evaluation metrics\n\nWrite only the forum post, nothing else."
+      }
+    ],
+    "cluster_id": 1
+  },
+  {
+    "prompt": [
+      {
+        "role": "user",
+        "content": "You are a student posting on a university course discussion forum about machine learning. Write a single discussion forum post in the following style:\n\nStyle: Formal and verbose student: uses academic language, writes long structured posts with complete sentences and technical vocabulary.\n\nTopic: neural network architectures\n\nWrite only the forum post, nothing else."
+      }
+    ],
+    "cluster_id": 0
+  },
+  {
+    "prompt": [
+      {
+        "role": "user",
+        "content": "You are a student posting on a university course discussion forum about machine learning. Write a single discussion forum post in the following style:\n\nStyle: Question-heavy and curious student: asks many follow-up questions, connects ideas across lectures, seeks deeper understanding beyond what's required.\n\nTopic: recurrent neural networks and LSTMs\n\nWrite only the forum post, nothing else."
+      }
+    ],
+    "cluster_id": 2
+  },
+  {
+    "prompt": [
+      {
+        "role": "user",
+        "content": "You are a student posting on a university course discussion forum about machine learning. Write a single discussion forum post in the following style:\n\nStyle: Casual and brief student: uses informal language, short sentences, sometimes incomplete thoughts, and internet-style abbreviations.\n\nTopic: data preprocessing and augmentation\n\nWrite only the forum post, nothing else."
+      }
+    ],
+    "cluster_id": 1
+  },
+  {
+    "prompt": [
+      {
+        "role": "user",
+        "content": "You are a student posting on a university course discussion forum about machine learning. Write a single discussion forum post in the following style:\n\nStyle: Question-heavy and curious student: asks many follow-up questions, connects ideas across lectures, seeks deeper understanding beyond what's required.\n\nTopic: loss functions and evaluation metrics\n\nWrite only the forum post, nothing else."
+      }
+    ],
+    "cluster_id": 2
+  },
+  {
+    "prompt": [
+      {
+        "role": "user",
+        "content": "You are a student posting on a university course discussion forum about machine learning. Write a single discussion forum post in the following style:\n\nStyle: Formal and verbose student: uses academic language, writes long structured posts with complete sentences and technical vocabulary.\n\nTopic: backpropagation algorithm\n\nWrite only the forum post, nothing else."
+      }
+    ],
+    "cluster_id": 0
+  },
+  {
+    "prompt": [
+      {
+        "role": "user",
+        "content": "You are a student posting on a university course discussion forum about machine learning. Write a single discussion forum post in the following style:\n\nStyle: Casual and brief student: uses informal language, short sentences, sometimes incomplete thoughts, and internet-style abbreviations.\n\nTopic: hyperparameter tuning strategies\n\nWrite only the forum post, nothing else."
+      }
+    ],
+    "cluster_id": 1
+  },
+  {
+    "prompt": [
+      {
+        "role": "user",
+        "content": "You are a student posting on a university course discussion forum about machine learning. Write a single discussion forum post in the following style:\n\nStyle: Casual and brief student: uses informal language, short sentences, sometimes incomplete thoughts, and internet-style abbreviations.\n\nTopic: convolutional neural networks\n\nWrite only the forum post, nothing else."
+      }
+    ],
+    "cluster_id": 1
+  },
+  {
+    "prompt": [
+      {
+        "role": "user",
+        "content": "You are a student posting on a university course discussion forum about machine learning. Write a single discussion forum post in the following style:\n\nStyle: Question-heavy and curious student: asks many follow-up questions, connects ideas across lectures, seeks deeper understanding beyond what's required.\n\nTopic: dimensionality reduction techniques\n\nWrite only the forum post, nothing else."
+      }
+    ],
+    "cluster_id": 2
+  },
+  {
+    "prompt": [
+      {
+        "role": "user",
+        "content": "You are a student posting on a university course discussion forum about machine learning. Write a single discussion forum post in the following style:\n\nStyle: Casual and brief student: uses informal language, short sentences, sometimes incomplete thoughts, and internet-style abbreviations.\n\nTopic: attention mechanisms and transformers\n\nWrite only the forum post, nothing else."
+      }
+    ],
+    "cluster_id": 1
+  },
+  {
+    "prompt": [
+      {
+        "role": "user",
+        "content": "You are a student posting on a university course discussion forum about machine learning. Write a single discussion forum post in the following style:\n\nStyle: Formal and verbose student: uses academic language, writes long structured posts with complete sentences and technical vocabulary.\n\nTopic: hyperparameter tuning strategies\n\nWrite only the forum post, nothing else."
+      }
+    ],
+    "cluster_id": 0
+  },
+  {
+    "prompt": [
+      {
+        "role": "user",
+        "content": "You are a student posting on a university course discussion forum about machine learning. Write a single discussion forum post in the following style:\n\nStyle: Formal and verbose student: uses academic language, writes long structured posts with complete sentences and technical vocabulary.\n\nTopic: dimensionality reduction techniques\n\nWrite only the forum post, nothing else."
+      }
+    ],
+    "cluster_id": 0
+  },
+  {
+    "prompt": [
+      {
+        "role": "user",
+        "content": "You are a student posting on a university course discussion forum about machine learning. Write a single discussion forum post in the following style:\n\nStyle: Casual and brief student: uses informal language, short sentences, sometimes incomplete thoughts, and internet-style abbreviations.\n\nTopic: ensemble methods and boosting\n\nWrite only the forum post, nothing else."
+      }
+    ],
+    "cluster_id": 1
+  },
+  {
+    "prompt": [
+      {
+        "role": "user",
+        "content": "You are a student posting on a university course discussion forum about machine learning. Write a single discussion forum post in the following style:\n\nStyle: Question-heavy and curious student: asks many follow-up questions, connects ideas across lectures, seeks deeper understanding beyond what's required.\n\nTopic: data preprocessing and augmentation\n\nWrite only the forum post, nothing else."
+      }
+    ],
+    "cluster_id": 2
+  }
+]
