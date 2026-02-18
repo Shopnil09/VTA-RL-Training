@@ -26,3 +26,25 @@ Generating test cluster data file and json file to test training pipeline. The j
 - Style encoder will get replaced with an actual style embedding model
 - `compute_reward()` function will stay the same except for `sim` variable depending on if embeddings are normalized
 - `load_environment()` will require logic change to match rl-verifier documentation: add  `async def style_reward(completion, cluster_id, **kwargs)`, `vf.Rubric(funcs=[style_reward])`
+- Configure toml files:
+<pre>
+
+model = "Qwen/Qwen2.5-0.5B-Instruct"
+max_steps = 100
+batch_size = 128
+rollouts_per_example = 8
+
+[sampling]
+max_tokens = 512
+temperature = 0.7
+
+[[env]]
+id = "student-simulator"
+args = { epsilon = 1e308, num_steps = 100, clip_threshold = 0.5 }
+
+# for web dashboard viewing
+[wandb]
+project = "student-simulator"
+name = "qwen-0.5b-style-matching"
+</pre>
+- The toml file and code changes needs to be tested in the server
