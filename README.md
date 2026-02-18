@@ -20,3 +20,9 @@ Initializing parameters: epsilon: smaller epsilon, stronger privacy and more noi
 Generating test cluster data file and json file to test training pipeline. The json data is in the following format for GRPOTrainer:
 
 <pre> ```json { "prompt": [ { "role": "user", "content": "prompt_text" } ], "cluster_id": int } ``` </pre>
+
+## Training in GPU Server Changes:
+- Install verifiers framework in server, transfer over the files from local to server
+- Style encoder will get replaced with an actual style embedding model
+- `compute_reward()` function will stay the same except for `sim` variable depending on if embeddings are normalized
+- `load_environment()` will require logic change to match rl-verifier documentation: add  `async def style_reward(completion, cluster_id, **kwargs)`, `vf.Rubric(funcs=[style_reward])`
